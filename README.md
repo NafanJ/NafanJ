@@ -7,11 +7,13 @@ Welcome to my corner of the digital world! I'm passionate about crafting excepti
 ## 💼 What I Do
 - Front-end development with a focus on HTML, CSS, and JavaScript.
 - Crafting responsive, user-friendly, and visually appealing websites and web applications.
+- Leveraging Python for web development and automation, making things work like magic.
 - Collaborating with designers and back-end developers to create seamless online experiences.
 
 ## 🌟 Expertise
 - HTML5, CSS3 and responsive design.
 - JavaScript, React, and Vue.js for dynamic and interactive web applications.
+- Python for web development using frameworks like Flask and Selenium.
 - Version control with Git and working in collaborative environments.
 
 ## 🚀 What Drives Me
