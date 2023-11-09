@@ -13,7 +13,7 @@ Welcome to my corner of the digital world! I'm passionate about crafting excepti
 ## 🌟 Expertise
 - HTML5, CSS3 and responsive design.
 - JavaScript, React, and Vue.js for dynamic and interactive web applications.
-- Python for web development using frameworks like Flask and Selenium.
+- Python for web development using frameworks like Flask and Swagger UI.
 - Version control with Git and working in collaborative environments.
 
 ## 🚀 What Drives Me
