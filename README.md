@@ -5,10 +5,10 @@ Software Engineer | Front-end Developer | UI/UX Enthusiast 🎨
 Welcome to my corner of the digital world! I'm passionate about crafting exceptional user experiences and bringing creative designs to life. With a keen eye for detail and a love for elegant code, I'm dedicated to building the web of tomorrow, today.
 
 ## 🌟 Expertise
-- HTML5, CSS3 and responsive design.
-- JavaScript and React for dynamic and interactive web applications.
 - Python for web development using frameworks like Flask and Swagger UI.
-- Automation for web applications using Selenium.
+- JavaScript and React for dynamic and interactive web applications.
+- HTML5, CSS3 and responsive design.
+- Selenium Web Automation.
 - Leveraging AI to enhance productivity.
 - Version control with Git and working in collaborative environments.
 
