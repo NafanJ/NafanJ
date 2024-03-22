@@ -8,7 +8,7 @@ Welcome to my corner of the digital world! I'm passionate about crafting excepti
 - Python for web development using frameworks like Flask and Swagger UI.
 - JavaScript and React for dynamic and interactive web applications.
 - HTML5, CSS3 and responsive design.
-- Selenium Web Automation.
+- Automation with Selenium Web Driver.
 - Leveraging AI to enhance productivity.
 - Version control with Git and working in collaborative environments.
 
