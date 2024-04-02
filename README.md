@@ -19,4 +19,4 @@ If you're looking for some inspiration, try one of my favourite Youtube channels
 ## 🌐 Let's Connect
 Feel free to explore my GitHub repositories, and if you have any questions, want to collaborate, or just want to chat about all things programming, don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/nathanjoel).
 
-Looking forward to sharing code and creativity with you! 🌈
+Looking forward to working with you!
