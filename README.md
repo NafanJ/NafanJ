@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nathan
 
-Software Engineer | Front-end Developer | UI/UX Enthusiast 🎨
+Software Engineer | Front-end Developer
 
 Welcome to my corner of the digital world! I'm passionate about crafting exceptional user experiences and bringing creative designs to life. With a keen eye for detail and a love for elegant code, I'm dedicated to building the web of tomorrow, today.
 
