@@ -1,22 +1,22 @@
-# 👋 Hello, I'm Nathan
+# Hey, I'm Nathan 👋
 
-Software Engineer | Front-end Developer
+I'm a software engineer from Northern Ireland building polished web products, AI-powered tools, games, and automation systems.
 
-Welcome to my corner of the digital world! I'm passionate about crafting exceptional user experiences and bringing creative designs to life. With a keen eye for detail and a love for elegant code, I'm dedicated to building the web of tomorrow, today.
+My work spans TypeScript, Next.js, React, Python, Supabase, and agentic AI. I enjoy taking ideas from rough prototypes to useful, thoughtfully designed products—especially when they involve realtime systems, unusual interfaces, or eliminating repetitive work.
 
-## 🌟 Expertise
-- Python for web development using frameworks like Flask and Swagger UI.
-- JavaScript and React for dynamic and interactive web applications.
-- HTML5, CSS3 and responsive design.
-- Automation with Selenium Web Driver.
-- Leveraging AI to enhance productivity.
-- Version control with Git and working in collaborative environments.
+## Selected projects
 
-## 🚀 What Drives Me
-I'm excited about the ever-evolving tech landscape, and I'm constantly learning and growing. Whether it's exploring new front-end frameworks or experimenting with the latest design trends, I'm always on the lookout for ways to push the boundaries of what's possible on the web.
-If you're looking for some inspiration, try one of my favourite Youtube channels, [Fireship](https://www.youtube.com/@Fireship)
+- [Warden](https://github.com/NafanJ/warden) — An autonomous operations agent that monitors and helps maintain a Docker media server.
+- [Marble Rush](https://github.com/NafanJ/marble-rush) — A realtime multiplayer marble-racing game built with Phaser, Matter.js, Next.js, and Supabase.
+- [Vazam](https://github.com/NafanJ/vazam) — Voice-recognition experiments using MFCC audio features.
+- [CubeWorld 2.0](https://github.com/NafanJ/CubeWorld2.0) — A multiplayer world simulation powered by Next.js and Supabase.
+- [Spotify MCP Playlist Builder](https://github.com/NafanJ/spotify-mcp-playlist-builder) — An agentic interface for building Spotify playlists.
 
-## 🌐 Let's Connect
-Feel free to explore my GitHub repositories, and if you have any questions, want to collaborate, or just want to chat about all things programming, don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/nathanjoel).
+## What I'm working with
 
-Looking forward to working with you!
+`TypeScript` · `React` · `Next.js` · `Python` · `Supabase` · `PostgreSQL` · `Docker` · `AI agents`
+
+## Elsewhere
+
+- [Portfolio](https://www.nathanjoel.com/)
+- [LinkedIn](https://www.linkedin.com/in/nathanjoel)
